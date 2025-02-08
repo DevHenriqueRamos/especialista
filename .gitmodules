@@ -1,0 +1,6 @@
+[submodule "monolitico-vs-microservice"]
+	path = monolitico-vs-microservice
+	url = https://github.com/DevHenriqueRamos/monolitico-vs-microservice
+[submodule "estrutura-de-dados-e-BigO"]
+	path = estrutura-de-dados-e-BigO
+	url = https://github.com/DevHenriqueRamos/estrutura-de-dados-e-BigO
